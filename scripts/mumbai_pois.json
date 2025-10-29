@@ -1,0 +1,303 @@
+[
+
+    {
+    "name": "Gateway of India",
+    "tags": "history,monument,sea,nature",
+    "description": "An arch-monument built in the early 20th century, overlooking the Arabian Sea.",
+    "lat": 18.9220, "lon": 72.8347, "duration": 1.5
+  },
+  {
+    "name": "Elephanta Caves",
+    "tags": "history,caves,unesco,religion,adventure",
+    "description": "A network of sculpted caves on an island, primarily dedicated to the Hindu god Shiva.",
+    "lat": 18.9634, "lon": 72.9315, "duration": 4.0
+  },
+  {
+    "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+    "tags": "history,museum,art",
+    "description": "The main museum in Mumbai, showcasing a vast collection of ancient to modern Indian art and artifacts.",
+    "lat": 18.9269, "lon": 72.8342, "duration": 3.0
+  },
+  {
+    "name": "Siddhivinayak Temple",
+    "tags": "religion,temple",
+    "description": "A famous Hindu temple dedicated to Lord Shri Ganesh, attracting devotees from all over the world.",
+    "lat": 19.0170, "lon": 72.8302, "duration": 1.5
+  },
+  {
+    "name": "Haji Ali Dargah",
+    "tags": "religion,sea,nature,monument",
+    "description": "A historic mosque and tomb located on an islet off the coast, connected by a narrow causeway.",
+    "lat": 18.9827, "lon": 72.8085, "duration": 2.0
+  },
+  {
+    "name": "Juhu Beach",
+    "tags": "beach,sea,food,nature",
+    "description": "A popular beach famous for its lively atmosphere and a wide variety of local street food stalls.",
+    "lat": 19.0982, "lon": 72.8265, "duration": 2.5
+  },
+  {
+    "name": "Marine Drive",
+    "tags": "sea,walk,view,nature",
+    "description": "A 3.6-kilometre-long promenade, also known as the Queen's Necklace, offering stunning sunset views.",
+    "lat": 18.9433, "lon": 72.8243, "duration": 2.0
+  },
+  {
+    "name": "Colaba Causeway",
+    "tags": "shopping,market,food",
+    "description": "A bustling street market known for fashion, accessories, antiques, and iconic cafes.",
+    "lat": 18.9193, "lon": 72.8318, "duration": 3.0
+  },
+  {
+    "name": "Sanjay Gandhi National Park",
+    "tags": "nature,adventure,trekking,caves",
+    "description": "A large protected area within the city limits, offering nature trails, treks, and the ancient Kanheri Caves.",
+    "lat": 19.2288, "lon": 72.9184, "duration": 5.0
+  },
+  {
+    "name": "Wankhede Stadium",
+    "tags": "sports,cricket",
+    "description": "An iconic international cricket stadium, home to the Mumbai Indians and host of many historic matches.",
+    "lat": 18.9388, "lon": 72.8258, "duration": 2.0
+  },
+  {
+    "name": "Jehangir Art Gallery",
+    "tags": "art,gallery",
+    "description": "Mumbai's most famous art gallery, showcasing works from established and emerging Indian artists.",
+    "lat": 18.9274, "lon": 72.8328, "duration": 1.5
+  },
+  {
+    "name": "EsselWorld Amusement Park",
+    "tags": "adventure,amusement park",
+    "description": "A large amusement park with a variety of rides and attractions for all ages.",
+    "lat": 19.2312, "lon": 72.8066, "duration": 6.0
+  },
+  {
+    "name": "Linking Road, Bandra",
+    "tags": "shopping,market",
+    "description": "A famous shopping destination blending street stalls with high-end boutiques, especially for shoes and bags.",
+    "lat": 19.0628, "lon": 72.8344, "duration": 2.5
+  },
+  {
+    "name": "Mohammed Ali Road",
+    "tags": "food,market",
+    "description": "A legendary food street, especially famous for its non-vegetarian delicacies and sweets during festivals.",
+    "lat": 18.9566, "lon": 72.8358, "duration": 2.0
+  },
+  {
+    "name": "Mount Mary Basilica",
+    "tags": "religion,church,monument",
+    "description": "A historic Roman Catholic Basilica perched on a hillock overlooking the Arabian Sea in Bandra.",
+    "lat": 19.0494, "lon": 72.8247, "duration": 1.0
+  },
+  {
+    "name": "Bandra-Worli Sea Link",
+    "tags": "monument,view,sea",
+    "description": "An eight-lane cable-stayed bridge offering spectacular views of the Mumbai coastline.",
+    "lat": 19.0279, "lon": 72.8169, "duration": 0.5
+  },
+  {
+    "name": "Upvan Lake, Thane",
+    "tags": "nature,walk,food",
+    "description": "A picturesque man-made lake in Thane, known for its serene environment and cultural events.",
+    "lat": 19.2210, "lon": 72.9778, "duration": 2.0
+  },
+  {
+    "name": "Vasai Fort",
+    "tags": "history,adventure,monument,nature",
+    "description": "The ruins of a large fort in the Vasai-Virar region, offering a glimpse into Portuguese history.",
+    "lat": 19.3303, "lon": 72.8093, "duration": 3.0
+  },
+  {
+    "name": "Nerul Balaji Temple, Navi Mumbai",
+    "tags": "religion,temple",
+    "description": "A major spiritual center in Navi Mumbai, modeled after the Venkateswara Temple at Tirupati.",
+    "lat": 19.0435, "lon": 73.0229, "duration": 1.5
+  },
+  {
+    "name": "Yeoor Hills, Thane",
+    "tags": "nature,adventure,trekking",
+    "description": "A hilly forested area at the Thane side of Sanjay Gandhi National Park, popular for hiking.",
+    "lat": 19.2550, "lon": 72.9550, "duration": 4.0
+  },
+  {
+    "name": "Imagicaa Theme Park",
+    "tags": "adventure,amusement park",
+    "description": "A major theme park on the Mumbai-Pune Expressway with a variety of rollercoasters, themed rides, and attractions.",
+    "lat": 18.8475, "lon": 73.2655, "duration": 8.0
+  },
+  {
+    "name": "Lonavala & Khandala",
+    "tags": "nature,hill station,adventure,view",
+    "description": "Popular twin hill stations near Mumbai, famous for their scenic viewpoints, waterfalls, and forts. A full day trip.",
+    "lat": 18.7551, "lon": 73.4070, "duration": 10.0
+  },
+  {
+    "name": "Alibaug Beach",
+    "tags": "beach,sea,nature,adventure",
+    "description": "The main beach of the coastal town of Alibaug, known for its dark sand and views of Kolaba Fort.",
+    "lat": 18.6475, "lon": 72.8681, "duration": 8.0
+  },
+  {
+    "name": "Phoenix Palladium Mall",
+    "tags": "shopping,mall,food",
+    "description": "A premier luxury shopping mall in Lower Parel with international brands, fine dining, and a cinema.",
+    "lat": 19.0064, "lon": 72.8256, "duration": 4.0
+  },
+  {
+    "name": "R City Mall, Ghatkopar",
+    "tags": "shopping,mall,food,entertainment",
+    "description": "One of the largest malls in Mumbai, offering a massive range of retail stores, eateries, and entertainment options.",
+    "lat": 19.0991, "lon": 72.9156, "duration": 4.0
+  },
+  {
+    "name": "Global Vipassana Pagoda",
+    "tags": "religion,monument,view,nature",
+    "description": "A massive stone dome meditation hall near Gorai, containing bone relics of Gautama Buddha.",
+    "lat": 19.2274, "lon": 72.8055, "duration": 3.0
+  },
+  {
+    "name": "Kanheri Caves",
+    "tags": "history,caves,religion,adventure,nature",
+    "description": "A complex of rock-cut monuments located deep within Sanjay Gandhi National Park, representing Buddhist art.",
+    "lat": 19.2062, "lon": 72.9068, "duration": 3.5
+  },
+  {
+    "name": "Dr. Bhau Daji Lad Museum",
+    "tags": "history,museum,art",
+    "description": "Mumbai's oldest museum, beautifully restored, showcasing the city's rich history and decorative arts.",
+    "lat": 18.9780, "lon": 72.8352, "duration": 2.5
+  },
+  {
+    "name": "Hanging Gardens of Mumbai",
+    "tags": "nature,park,view",
+    "description": "Terraced gardens on Malabar Hill, offering pleasant walks and sunset views over Marine Drive.",
+    "lat": 18.9554, "lon": 72.8053, "duration": 1.5
+  },
+  {
+    "name": "Crawford Market",
+    "tags": "shopping,market,food",
+    "description": "A historic market in South Mumbai, known for its architecture and vast selection of fresh produce, pets, and wholesale goods.",
+    "lat": 18.9496, "lon": 72.8352, "duration": 2.0
+  },
+  {
+    "name": "Film City, Goregaon",
+    "tags": "entertainment,adventure",
+    "description": "An integrated film studio complex where many Bollywood movies are shot. Guided tours are available.",
+    "lat": 19.1601, "lon": 72.8833, "duration": 4.0
+  },
+  {
+    "name": "Aksa Beach",
+    "tags": "beach,sea,nature",
+    "description": "A popular but more secluded beach in Malad, known for its cleanliness and natural beauty.",
+    "lat": 19.1764, "lon": 72.7951, "duration": 2.0
+  },
+  {
+    "name": "Powai Lake",
+    "tags": "nature,lake,walk",
+    "description": "An artificial lake in the Powai valley, surrounded by gardens and a popular spot for evening strolls.",
+    "lat": 19.1235, "lon": 72.9086, "duration": 1.5
+  },
+  {
+    "name": "Mumba Devi Temple",
+    "tags": "religion,temple,history",
+    "description": "An old Hindu temple dedicated to the goddess Mumbā, from whom the city of Mumbai derives its name.",
+    "lat": 18.9507, "lon": 72.8322, "duration": 1.0
+  },
+  {
+    "name": "Bandra Fort (Castella de Aguada)",
+    "tags": "history,fort,view,sea",
+    "description": "A historic watchtower fort at Land's End, Bandra, offering stunning views of the Bandra-Worli Sea Link.",
+    "lat": 19.0431, "lon": 72.8193, "duration": 1.0
+  },
+  {
+    "name": "Chor Bazaar",
+    "tags": "shopping,market,history",
+    "description": "One of the largest flea markets in India, famous for antiques, vintage items, and second-hand goods.",
+    "lat": 18.9599, "lon": 72.8322, "duration": 2.5
+  },
+  {
+    "name": "Nehru Centre",
+    "tags": "art,science,entertainment",
+    "description": "A cultural and scientific center in Worli, featuring a planetarium, art gallery, and discovery of India exhibit.",
+    "lat": 18.9912, "lon": 72.8149, "duration": 3.0
+  },
+  {
+    "name": "Oberoi Mall, Goregaon",
+    "tags": "shopping,mall,food",
+    "description": "A popular mall on the Western Express Highway with a mix of national and international brands.",
+    "lat": 19.1732, "lon": 72.8601, "duration": 3.5
+  },
+  {
+    "name": "Carter Road Promenade",
+    "tags": "food,walk,sea,nature",
+    "description": "A seaside promenade in Bandra West, known for its jogging track and a variety of food stalls and cafes.",
+    "lat": 19.0620, "lon": 72.8242, "duration": 2.0
+  },
+  {
+    "name": "Kashid Beach, Alibaug",
+    "tags": "beach,nature,sea",
+    "description": "A beautiful white-sand beach with clear blue waters and casuarina groves, located south of Alibaug.",
+    "lat": 18.3496, "lon": 72.9157, "duration": 8.0
+  },
+  {
+    "name": "Murud-Janjira Fort",
+    "tags": "history,fort,sea,adventure",
+    "description": "A formidable marine fort situated on an island off the coastal village of Murud, accessible by boat.",
+    "lat": 18.3005, "lon": 72.9647, "duration": 4.0
+  },
+  {
+    "name": "Tiger Point, Lonavala",
+    "tags": "nature,view,adventure,hill station",
+    "description": "A famous cliff-top viewpoint in Lonavala that offers panoramic views of the surrounding valley.",
+    "lat": 18.7235, "lon": 73.3444, "duration": 2.0
+  },
+  {
+    "name": "Bhushi Dam, Lonavala",
+    "tags": "nature,adventure,dam",
+    "description": "A masonry dam on the Indrayani River, popular during the monsoon when water overflows onto the steps.",
+    "lat": 18.7454, "lon": 73.3768, "duration": 2.5
+  },
+  {
+    "name": "Lohagad Fort, Lonavala",
+    "tags": "history,fort,adventure,trekking",
+    "description": "A historic hill fort near Lonavala, a popular destination for trekking with commanding views.",
+    "lat": 18.6997, "lon": 73.4831, "duration": 4.5
+  },
+  {
+    "name": "Karla Caves, Lonavala",
+    "tags": "history,caves,religion",
+    "description": "Ancient Buddhist rock-cut caves near Lonavala, featuring a large prayer hall and intricate sculptures.",
+    "lat": 18.7845, "lon": 73.4759, "duration": 2.0
+  },
+  {
+    "name": "Inorbit Mall, Malad",
+    "tags": "shopping,mall,food,entertainment",
+    "description": "A large shopping mall in Malad with a wide array of stores, a food court, and entertainment facilities.",
+    "lat": 19.1768, "lon": 72.8368, "duration": 3.5
+  },
+  {
+    "name": "Kolaba Fort, Alibaug",
+    "tags": "history,fort,sea,adventure",
+    "description": "An old military fort situated in the sea at a short distance from the shores of Alibaug, accessible during low tide.",
+    "lat": 18.6385, "lon": 72.8622, "duration": 2.5
+  },
+  {
+    "name": "Karnala Bird Sanctuary",
+    "tags": "nature,adventure,trekking,birds",
+    "description": "Located near Panvel, this sanctuary is a haven for bird watchers and also features the historic Karnala Fort.",
+    "lat": 18.8872, "lon": 73.1207, "duration": 4.0
+  },
+  {
+    "name": "Zaveri Bazaar",
+    "tags": "shopping,market",
+    "description": "The largest jewellery market in Mumbai, housing thousands of shops selling precious metals and gems.",
+    "lat": 18.9515, "lon": 72.8335, "duration": 2.0
+  },
+  {
+    "name": "Gorai Beach",
+    "tags": "beach,sea,nature",
+    "description": "A quieter beach in the northern suburbs, accessible by a ferry, offering a more tranquil seaside experience.",
+    "lat": 19.2310, "lon": 72.7930, "duration": 3.0
+  }
+]

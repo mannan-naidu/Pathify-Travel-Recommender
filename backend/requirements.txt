@@ -1,0 +1,12 @@
+# backend/requirements.txt
+flask
+python-dotenv
+pymongo
+scikit-learn
+pandas
+celery
+redis
+flask-cors
+requests
+beautifulsoup4
+numpy
