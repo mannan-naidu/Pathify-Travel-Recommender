@@ -5,6 +5,8 @@ from celery import Celery
 from .config import Config
 from flask_cors import CORS  # <-- ADD THIS MISSING IMPORT
 
+import ssl
+
 mongo_client = MongoClient(Config.MONGO_URI)
 db = mongo_client[Config.MONGO_DB_NAME]
 
@@ -15,6 +17,13 @@ celery = Celery(__name__,
 
 # Explicitly tell Celery where to find tasks
 celery.conf.imports = ("app.tasks",)
+
+# Programmatically configure SSL cert requirements for secure Redis connections
+if Config.broker_url and Config.broker_url.startswith("rediss://"):
+    celery.conf.broker_use_ssl = {'ssl_cert_reqs': ssl.CERT_NONE}
+if Config.result_backend and Config.result_backend.startswith("rediss://"):
+    celery.conf.redis_backend_use_ssl = {'ssl_cert_reqs': ssl.CERT_NONE}
+
 
 def create_app():
     app = Flask(__name__)
