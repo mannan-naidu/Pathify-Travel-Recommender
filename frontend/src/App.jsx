@@ -5,7 +5,7 @@ import ItineraryForm from './components/ItineraryForm';
 import ItineraryDisplay from './components/ItineraryDisplay';
 import './App.css';
 
-const API_URL = 'http://127.0.0.1:5001';
+const API_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:5001';
 
 function App() {
   const [isLoading, setIsLoading] = useState(false);

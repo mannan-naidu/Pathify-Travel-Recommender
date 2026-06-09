@@ -4,7 +4,10 @@ from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
 
-load_dotenv(dotenv_path='../backend/.env') # Path to the .env file
+# Load .env file relative to the script location
+basedir = os.path.abspath(os.path.dirname(__file__))
+load_dotenv(dotenv_path=os.path.join(basedir, '../backend/.env'))
+
 
 print(f"DEBUG: MONGO_URI = {os.getenv('MONGO_URI')}")
 
@@ -17,7 +20,8 @@ def load_data_to_mongo():
     collection.delete_many({})
 
     # Load from JSON file
-    with open('mumbai_pois.json', 'r', encoding='utf-8') as f:
+    json_path = os.path.join(basedir, 'mumbai_pois.json')
+    with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     # Insert into MongoDB

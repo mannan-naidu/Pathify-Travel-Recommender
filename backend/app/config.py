@@ -2,7 +2,10 @@
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+# Load the .env file from the backend root directory regardless of where Python is executed
+basedir = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+load_dotenv(os.path.join(basedir, '.env'))
+
 
 class Config:
     MONGO_URI = os.getenv("MONGO_URI")

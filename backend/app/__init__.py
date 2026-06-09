@@ -26,6 +26,13 @@ def create_app():
     # Update Celery config from Flask's config
     celery.conf.update(app.config)
 
+    # Test MongoDB connection on startup
+    try:
+        mongo_client.admin.command('ping')
+        print(f" * Successfully connected to MongoDB database: '{Config.MONGO_DB_NAME}'")
+    except Exception as e:
+        print(f" * ERROR: Failed to connect to MongoDB: {e}")
+
     from . import routes
     app.register_blueprint(routes.main)
 
